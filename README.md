@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whdbs8011
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ... xx
+- 👀 I’m interested in ... C#,Java
+- 🌱 I’m currently learning ...C#
+- 💞️ I’m looking to collaborate on ... C#
 - 📫 How to reach me ...
 
 <!---
